@@ -7,10 +7,14 @@ My first repository
   <head> </head>
 <body>
 <ol>
-  <li>Gintama: The Very Final [Link](https://myanimelist.net/anime/39486/Gintama__The_Final) </li>
-  <li>Spirited Away [Link](https://myanimelist.net/anime/199/Sen_to_Chihiro_no_Kamikakushi) </li>
-  <li>Cowboy Bebop: The Movie [Link](https://myanimelist.net/anime/5/Cowboy_Bebop__Tengoku_no_Tobira) </li>
-  <li>Gundam Hathaway [Link](https://myanimelist.net/anime/37765/Kidou_Senshi_Gundam__Senkou_no_Hathaway) </li>
+  <li>Gintama: The Very Final</li>
+  [Myanimelist Link](https://myanimelist.net/anime/39486/Gintama__The_Final)
+  <li>Spirited Away</li>
+   [Myanimelist Link](https://myanimelist.net/anime/199/Sen_to_Chihiro_no_Kamikakushi)
+  <li>Cowboy Bebop: The Movie</li>
+[Myanimelist Link](https://myanimelist.net/anime/5/Cowboy_Bebop__Tengoku_no_Tobira)
+  <li>Gundam Hathaway</li>
+[Myanimelist Link](https://myanimelist.net/anime/37765/Kidou_Senshi_Gundam__Senkou_no_Hathaway) 
 </ol>
   </body>
 </html>
